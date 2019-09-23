@@ -1,1 +1,2 @@
 # stupid-tools
+foo
